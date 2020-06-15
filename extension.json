@@ -1,0 +1,19 @@
+{
+  "id": "extraBGMs_qqhlddz",
+  "version": "1.1.0",
+  "name": "欢乐斗地主音乐盒",
+  "author": "Handle",
+  "description": "BGM音频由小旭音乐创作\n这个模组自带全部依赖，请不要启用其他任何音乐盒插件。",
+  "dir": "assets",
+  "preview": "preview.jpg",
+  "dependencies": {},
+  "entry": "script.js",
+  "resourcepack": [
+    "audio/qqhlddz/win.mp3",
+    "audio/qqhlddz/Normal.mp3",
+    "audio/qqhlddz/lose.mp3",
+    "audio/qqhlddz/lobby.mp3",
+    "audio/qqhlddz/Exciting2.mp3",
+    "audio/qqhlddz/Exciting1.mp3"
+  ]
+}
