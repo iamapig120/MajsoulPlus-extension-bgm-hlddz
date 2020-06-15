@@ -1,6 +1,6 @@
 # 欢乐斗地主（腾讯）音乐盒
 
-[![雀魂Plus](https://img.shields.io/badge/Majsoul-Plus-ff69b4)](https://github.com/iamapig120/MajsoulPlus-extension-bgm-hlddz/)
+[![雀魂Plus](https://img.shields.io/badge/Majsoul-Plus-ff69b4)](https://github.com/iamapig120/majsoul-plus-client/)
 [![DownloadsLatest](https://img.shields.io/github/downloads/iamapig120/MajsoulPlus-extension-bgm-hlddz/latest/total.svg)](https://github.com/iamapig120/MajsoulPlus-extension-bgm-hlddz/releases/latest)
 
 该项目包含了一个『雀魂Plus』扩展，使得您可以在游戏过程中使用知名的欢乐斗地主背景音乐代替默认音乐。
