@@ -27,7 +27,7 @@
 
 4. 您已成功安装
 
-### 直接下载 ZIP 包手工创建扩展
+### 下载 ZIP 包手工创建扩展
 
 1. [点此下载 ZIP 包](https://github.com/iamapig120/MajsoulPlus-extension-bgm-hlddz/archive/master.zip)
 
